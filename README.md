@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @cFischer08
 - 👀 I'm interested in game and website development.
-- 🌱 I'm currently learning 3 different programming languages, Javascript, PHP and C++
+- 🌱 I'm currently learning new different programming languages, for example Javascript, PHP, C++, etc.
 - 💞️ I look to collaborate on projects such as websites or small online stores.
 - 📫 How to contact me...
 - 😄 Pronouns: he/him
