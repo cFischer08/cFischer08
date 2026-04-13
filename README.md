@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @cFischer08
 - 👀 I'm interested in game and website development.
-- 🌱 I'm currently learning new different programming languages and frameworks, for example Java, React, WordPress, etc.
+- 🌱 I'm currently learning new different programming languages and frameworks, for example Java, React.js, Tailwind.CSS, etc.
 - 💞️ I look to collaborate on projects such as websites or small online stores.
 - 📫 How to contact me...
 - 😄 Pronouns: he/him
